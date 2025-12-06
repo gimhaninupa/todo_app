@@ -1,4 +1,4 @@
-# ✅ TaskMaster - Pro ToDo Ap
+# ✅ TaskMaster - Pro ToDo App
 
 ## 📖 About The Project
 A beautiful, feature-rich To-Do list application built with Flutter. Designed to help you organize your life with 
